@@ -7,4 +7,4 @@ async function main() {
     console.log('balance', balance / 1000000000);
 }
 
-main()
+main();
